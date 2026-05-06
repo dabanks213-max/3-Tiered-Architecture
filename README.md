@@ -128,7 +128,7 @@ A fully functional, production-style 3-tier VPC deployed in `us-east-1` with the
 
 **Diagram:**
 
-![Architecture Diagram](./aws-vpc-architecture.png)
+![Architecture Diagram](./3-tier.drawio.png)
 
 ---
 
